@@ -1,9 +1,9 @@
-import(min,max)
+
 array=[int(z) for z in input("Enter key: ").split(" ")]
-min_n=(array[min])
-max_n=(array[max])
-print(min,max)
-print(max-min)
+min_v = min(array)
+max_v = max(array)
+print(min_v,max_v)
+print(max_v-min_v)
 
 
 
