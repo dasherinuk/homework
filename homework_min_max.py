@@ -14,3 +14,11 @@ for array in main_array:
 
 
 print(min(array_maximum))
+
+# 1 2 3 4 5
+# 9 8 1 2 7
+# 7 8 1 9 4
+# 8 1 4 2 1 
+# 0 1 4 2 5
+
+#1 + 8 + 1 + 2 + 5 ?
